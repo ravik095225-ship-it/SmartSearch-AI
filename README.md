@@ -1,4 +1,4 @@
-# SmartSearch AI — Professional Hybrid Search Engine
+# SmartSearch AI — Professional Hybrid Search Engine  ( https://ravik095225-ship-it.github.io/SmartSearch-AI/)
 
 **SmartSearch AI** is an advanced AI-powered hybrid search engine combining classical Information Retrieval (BM25) with modern Dense Vector Semantic Search, grounded conversational AI answers, interactive citations, and an intuitive modern UI.
 
